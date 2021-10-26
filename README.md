@@ -5,6 +5,6 @@ Herramienta por CLI para cambiar la dirección MAC. Puede generar una dirección
 ```
 git clone https://github.com/RodionButEncapsulated/MAChanger.git
 cd MAChanger/
-python3 SrIT.py
+python3 MAChanger.py
 ```
 ASCII Art generado con [Patorjk](https://patorjk.com "Ir a patorjk.com").
